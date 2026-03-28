@@ -1,0 +1,7 @@
+{
+  "name": "Sanare - Medicina e Segurança do Trabalho",
+  "description": "Premium institutional website for Sanare, specializing in Occupational Medicine and Work Safety services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
