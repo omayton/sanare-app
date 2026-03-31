@@ -659,7 +659,7 @@ const App: React.FC = () => {
                <div>
                   <h5 className="text-emerald-400 uppercase tracking-[0.2em] text-xs font-black mb-8">Siga-nos</h5>
                   <div className="flex gap-5">
-                    <a href="#" className="p-3 bg-white/5 rounded-2xl hover:bg-white/20 hover:scale-110 transition-all border border-white/10 shadow-lg"><Instagram size={22} /></a>
+                    <a href="https://www.instagram.com/clinicasanare/" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/5 rounded-2xl hover:bg-white/20 hover:scale-110 transition-all border border-white/10 shadow-lg"><Instagram size={22} /></a>
                     <a href={`https://wa.me/${PHONE_FIXED_RAW}`} target="_blank" rel="noopener noreferrer" className="p-3 bg-white/5 rounded-2xl hover:bg-white/20 hover:scale-110 transition-all border border-white/10 shadow-lg"><Phone size={22} /></a>
                   </div>
                </div>
